@@ -1,5 +1,5 @@
-# AlternateAppIcon-example-objC
-AlternateAppIcon example for objective-C
+# AlternateIconName-objC
+AlternateIconName for objective-C
 
 
 # Info
