@@ -89,9 +89,6 @@ if ([[UIApplication sharedApplication] supportsAlternateIcons] == NO)
 
 
 
-# Example code 
-[https://github.com/tezpark/AlternateAppIcon-example-objC](https://github.com/tezpark/AlternateAppIcon-example-objC)
-
 
 # License
 MIT License
