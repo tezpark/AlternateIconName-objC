@@ -1,4 +1,5 @@
-[![GitHub platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)]() 
+[![GitHub platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)]()
+[![GitHub version](https://img.shields.io/badge/version-iOS%20%20(%3E%3D10.3)-brightgreen.svg)]()
 [![GitHub language](https://img.shields.io/badge/language-objective--c-6BAEE4.svg)]()
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/tezpark/AlternateIconName-objC/master/LICENSE)
 
